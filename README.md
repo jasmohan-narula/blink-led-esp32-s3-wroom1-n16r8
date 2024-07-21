@@ -1,7 +1,9 @@
 # Example Project to start development for ESP32-S3-WROOM-1-N16R8 using PlatformIO
-The board ESP32-S3-WROOM-1-N16R8 is not easily supported by Arduino and other platform. It took me too long to figure out how to run a simple Blink sketch without any issues on PlatformIO. After browsing through various site, it found how to configure it in PlatformIO with full functionality. Special thanks to https://community.platformio.org/u/sivar2311/ whose comments to help others facing the same issue, helped me out a lot.
+The board ESP32-S3-WROOM-1-N16R8 is not easily supported by Arduino and other platforms. It took me too long to figure out how to run a simple Blink sketch without any issues on PlatformIO. After browsing through various sites, I figured out how to configure it in PlatformIO with full functionality.
 
-Since I could not find a sample project on GitHub, I decided to post one myself for others to get started with their work using this board.
+Special thanks to https://community.platformio.org/u/sivar2311/ , whose comments helped others facing the same issue, and helped me out a lot.
+
+Since I could not find a sample project on GitHub, I decided to post one myself for others to get started with their work using this board on PlatformIO.
 
 ## Setup steps
 1) Install VS Code and have the extension "PlatformIO IDE: (Id: platformio.platformio-ide) installed.
